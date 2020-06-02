@@ -1,0 +1,83 @@
+body{
+	background-image: url('PaintAbstract.jpg');
+	
+	
+}
+
+.container{
+	 width: 300px;
+	 height: 400px;
+	 background-color: rgb(0,0,0,0.5);
+	 border: 1px solid rgb(0,0,0,0.5);
+	 border-radius: 20px;
+	 margin-left: 500px;
+	 margin-top: 100px;
+
+}
+
+#uname{
+	margin-left:50px;
+	margin-top: 50px;
+	color: white;
+	background-color: rgb(0,0,0,0.5);
+	text-decoration: none;
+	border: none;
+	border-bottom:2px solid white;
+	padding: 10px;
+}
+
+#password
+{
+	margin-left:50px;
+	margin-top: 50px;
+	color: white;
+	background-color: rgb(0,0,0,0.5);
+	border: none;
+	border-bottom:2px solid white;
+	padding: 10px;
+}
+
+#login{
+	margin-left:50px;
+	margin-top: 50px;
+	background-color:  rgb(0,0,0,0.5);
+	color: white;
+	border: none;
+	/*border-bottom: 2px solid white;*/
+	padding: 10px;
+}
+
+#login:hover{
+	background-color: #000;
+	color: tomato;
+}
+
+#reset{
+	margin-left:5px;
+	margin-top: 50px;
+	background-color:  rgb(0,0,0,0.5);
+	color: white;
+	border: none;
+	/*border-bottom: 2px solid white;*/
+	padding: 10px;
+}
+
+#reset:hover{
+	background-color: #000;
+	color: tomato;
+}
+
+#logo{
+	margin-left: 115px;
+	width: 70px;
+	height: 70px;
+}
+
+p{
+	
+	margin-left: 50px;
+	color: white;
+}
+a{
+	text-decoration: none;
+}
