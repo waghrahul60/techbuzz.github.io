@@ -557,7 +557,7 @@ input[type=submit]:hover {
       "footer";
   }
   .icon-bar {
-    display: block;
+    display: none;
   }
       .content  .main-content .post {
         width: 100%;
