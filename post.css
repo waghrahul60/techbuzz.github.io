@@ -653,7 +653,7 @@ input[type=submit]:hover {
   }
 
   .icon-bar {
-    display: block;
+    display: none;
   }
 
       .content{
