@@ -556,6 +556,9 @@ input[type=submit]:hover {
       "sidebar"
       "footer";
   }
+  .icon-bar {
+    display: block;
+  }
       .content  .main-content .post {
         width: 100%;
         height: auto;
@@ -647,6 +650,10 @@ input[type=submit]:hover {
       "main"
       "sidebar"
       "footer";
+  }
+
+  .icon-bar {
+    display: block;
   }
 
       .content{
